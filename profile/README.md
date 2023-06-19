@@ -45,16 +45,21 @@ To advance farming intelligence through innovation of software, hardware, machin
 [![HTML](https://img.shields.io/badge/HTML5-05122A?style=flat&logo=html5)](#)
 [![Css](https://img.shields.io/badge/CSS-05122A?style=flat&logo=css-wizardry)](#)
 [![React](https://img.shields.io/badge/React-05122A?style=flat-square&logo=react)](#)
+[![Node.JS](https://img.shields.io/badge/Node.JS-05122A?style=flat&logo=nodedotjs)](#)
+[![AntDesign](https://img.shields.io/badge/AntDesign-05122A?style=flat&logo=antdesign&logoColor=0170FE)](#)
 
-
-[![Go](https://img.shields.io/badge/Go-05122A?style=flat&logo=Go)](#)
 [![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=Python)](#)
+[![Go](https://img.shields.io/badge/Go-05122A?style=flat&logo=Go)](#)
 [![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=openJDK&logoColor=orange)](#)
+[![Kotlin](https://img.shields.io/badge/Kotlin-05122A?style=flat&logo=Kotlin)](#)
+[![Android](https://img.shields.io/badge/Android-05122A?style=flat&logo=android)](#)
+
 
 [![Shell](https://img.shields.io/badge/Shell-05122A?style=flat&logo=shell&logoColor=FFA518)](#)
 [![Git](https://img.shields.io/badge/Git-05122A?style=flat&logo=git)](#)
 [![Visual Studio Code](https://img.shields.io/badge/vscode-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)](#)
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-05122A?style=flat&logo=IntelliJ%20IDEA&logoColor=007ACC)](#)
+[![Android Studio](https://img.shields.io/badge/Android%20studio-05122A?style=flat&logo=androidstudio&logoColor=007ACC)](#)
 [![AWS](https://img.shields.io/badge/Amazon_AWS-05122A?style=flat-square&logo=Amazon-AWS)](#)
 [![AWS EKS](https://img.shields.io/badge/Amazon_EKS-05122A?style=flat-square&logo=Amazon-EKS)](#)
 [![Aliyun](https://img.shields.io/badge/Aliyun-05122A?style=flat&logo=Alibaba-cloud)](#)
