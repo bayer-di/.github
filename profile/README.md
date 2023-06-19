@@ -57,9 +57,9 @@ To advance farming intelligence through innovation of software, hardware, machin
 
 [![Shell](https://img.shields.io/badge/Shell-05122A?style=flat&logo=shell&logoColor=FFA518)](#)
 [![Git](https://img.shields.io/badge/Git-05122A?style=flat&logo=git)](#)
-[![Visual Studio Code](https://img.shields.io/badge/vscode-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)](#)
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)](#)
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-05122A?style=flat&logo=IntelliJ%20IDEA&logoColor=007ACC)](#)
-[![Android Studio](https://img.shields.io/badge/Android%20studio-05122A?style=flat&logo=androidstudio&logoColor=007ACC)](#)
+[![Android Studio](https://img.shields.io/badge/Android%20Studio-05122A?style=flat&logo=androidstudio&logoColor=007ACC)](#)
 [![AWS](https://img.shields.io/badge/Amazon_AWS-05122A?style=flat-square&logo=Amazon-AWS)](#)
 [![AWS EKS](https://img.shields.io/badge/Amazon_EKS-05122A?style=flat-square&logo=Amazon-EKS)](#)
 [![Aliyun](https://img.shields.io/badge/Aliyun-05122A?style=flat&logo=Alibaba-cloud)](#)
