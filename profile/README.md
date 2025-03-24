@@ -1,7 +1,3 @@
-## 👋 我们是谁?
-
-我们是一群为了`引爆农业`而聚集在一起的小伙伴，🈶️靓丽可人的小可爱、有油腻的大叔、也有数码极客与游戏高手，每个人都有自己擅长与不擅长的一面，但每个人都是一个多面手。
-
 ## 🌈 我们的愿景 Vision
 
 To create a modernized, efficient, intelligent, and sustainable food production system that feeds global population with healthy and quality food without starving the earth
